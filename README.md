@@ -1,5 +1,7 @@
 # vortice-games
 
+<img src="https://github.com/KevinDesman/vortice-games/blob/main/vg.png"/>
+
 ***Vortice Games is a leading game development company that has been making waves in the gaming industry. With a focus on creating unique and engaging games, Vortice Games has quickly become a household name among gamers***
 
 Vortice Games was founded in 2015 by a group of passionate gamers who wanted to create games that were not only entertaining but also pushed the boundaries of traditional gaming. The team at Vortice Games has a diverse background in game development, design, and marketing, which has allowed them to create games that appeal to a wide audience
